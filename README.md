@@ -8,7 +8,7 @@ Font is go monospace (2016)
 
 I added support for tree with lots of custom tweaks and icons for better usability.
 So far looks smooth on toggle, close, icon-wise and width.
-I also sleekes alacritty and started using tmux with bindings.
+I also sleeked alacritty and started using tmux with bindings.
 Experience is nice so far and could get into the zone while switching between editor
 tab and console/execution tab
 
